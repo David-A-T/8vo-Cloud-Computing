@@ -17,4 +17,4 @@ En este repositorio también se incluyen los siguientes archivos:
 - X_test, y_test: los subjuntos de datos (X:features, y:label) para la evaluación del modelo.
 - model_logreg.pkl: contiene el modelo de regresión logística entrenado para ejecutarse.
 - prueba.csv: datos de prueba para consultar en la API.
-- uri.json: 
+- uri.json: URI de nuestro servicio desplegado y compatible con la API.
